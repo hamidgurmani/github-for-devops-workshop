@@ -1,2 +1,5 @@
 git add 
 git back
+git go 
+git yes
+git no
